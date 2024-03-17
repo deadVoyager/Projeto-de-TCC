@@ -1,0 +1,3 @@
+- Importe o banco de dados no phpmyadmin
+- um administrador já está registrado
+- produtos e usuários podem ser registrados de acordo de como está na documentação
